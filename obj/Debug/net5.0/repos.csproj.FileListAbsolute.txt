@@ -1,0 +1,16 @@
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\repos.exe
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\repos.deps.json
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\repos.runtimeconfig.json
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\repos.runtimeconfig.dev.json
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\repos.dll
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\ref\repos.dll
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\bin\Debug\net5.0\repos.pdb
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.csprojAssemblyReference.cache
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.AssemblyInfoInputs.cache
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.AssemblyInfo.cs
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.csproj.CoreCompileInputs.cache
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.dll
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\ref\repos.dll
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.pdb
+C:\Users\JOJI_computer\source\repos\Trabalho_poliformismo\obj\Debug\net5.0\repos.genruntimeconfig.cache
